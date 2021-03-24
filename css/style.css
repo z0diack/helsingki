@@ -162,15 +162,11 @@ footer{
     display:block;
     float:left;
     text-align: center;
-    padding-left:3em;
-}
-.lineup-main-article ul:first-child{
-    padding:4em 3em;
+    padding-left:1em;
 }
 .lineup-main-article ul li{
     list-style-type: none;
     font-size: 15px;
-    padding:0.5em;
 }
 .MiddleList{
     justify-content: center;
@@ -203,11 +199,21 @@ footer{
     .wrapper{
         width:100%;
     }
+
+}
+@media(max-width:1300px){
+    .MiddleList{
+        padding:0.2em;
+        float:left;
+        padding-left:1em;
+        padding-right:1em;
+    }
 }
 @media(max-width:1000px){
     .wrapper{
         width:100%;
     }
+
 }
 @media(max-width:600px){
     .wrapper{
