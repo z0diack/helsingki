@@ -12,7 +12,7 @@ fetch("/js/carousel.json")
     json.forEach(function(el, i) {
       var image = document.createElement('img');
       image.setAttribute('src', el.location);
-      image.setAttribute('alt', el.caption);
+      image.setAttribute('alt', el.alt);
       image.setAttribute('title', el.caption);
       images.appendChild(image);
     });

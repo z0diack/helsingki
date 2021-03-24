@@ -15,6 +15,7 @@ fetch("/js/gallery.json")
       var image = document.createElement('img');
       image.setAttribute('src', el.location);
       image.setAttribute('title', el.caption);  
+      image.setAttribute('alt', el.alt);
 
       var caption = document.createElement('caption');
       
