@@ -1,0 +1,38 @@
+[
+  {
+    "location": "/js/json/img/Childish-Gambino.jpg",
+    "caption": "Childish Gambino - Day one"
+  },
+  {
+    "location": "/js/json/img/Frank-Ocean.jpg",
+    "caption": "Frank Ocean - Day one"
+  },
+  {
+    "location": "/js/json/img/Tyler-Creator.jpg",
+    "caption": "Tyler the Creator - Day one"
+  },
+  {
+    "location": "/js/json/img/Two-Door.jpg",
+    "caption": "Two Door Cinema Club - Day two"
+  },
+  {
+    "location": "/js/json/img/RHCP.jpg",
+    "caption": "Red Hot Chilli Peppers - Day two"
+  },
+  {
+    "location": "/js/json/img/Arctic-Monkeys.jpg",
+    "caption": "Arctic Monkeys - Day two"
+  },
+  {
+    "location": "/js/json/img/Post-Malone.jpg",
+    "caption": "Post Malone - Day three"
+  },
+  {
+    "location": "/js/json/img/Queen-Stone.jpg",
+    "caption": "Queens of the stone age - Day three"
+  },
+  {
+    "location": "/js/json/img/Wombats.jpg",
+    "caption": "The Wombats - Day three"
+  }
+]
