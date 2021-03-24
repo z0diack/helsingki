@@ -22,7 +22,8 @@ h1{
 }
 h2{
     text-decoration: underline;
-    font-size: 20px;
+    font-size: 16px;
+    font-style:italic;
 }
 .menu{
     margin:0 auto;
@@ -145,6 +146,11 @@ footer{
 .spotify{
     padding:2em;
 }
+.spotify > iframe{
+    width:100%;
+    height:450px;
+    border:0;
+}
 .lineup{
     text-align: center;
     font-weight:bold;
@@ -180,6 +186,7 @@ footer{
 .map > iframe{
     margin:0 auto;
     display:block;
+    border:0;
 }
 .small-print{
     font-size:12px;
