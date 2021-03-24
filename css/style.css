@@ -164,7 +164,7 @@ footer{
 }
 .lineup-main-article ul li{
     list-style-type: none;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 .MiddleList{
     justify-content: center;
@@ -174,7 +174,7 @@ footer{
 
 .Day{
     font-weight:bold;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-align: center;
     text-decoration:underline;
 }
