@@ -1,0 +1,47 @@
+[
+  {
+    "location": "/js/json/img/helsingkiStacks.jpg",
+    "caption": "Smoke Stacks @ HelSINGki '19",
+    "alt": "Smoke Stacks at helSINGki 2019"
+  },
+  {
+    "location": "/js/json/img/helsingkiFood.jpg",
+    "caption": "Park @ HelSINGki '19",
+    "alt": "Community park at helSINGki 2019"
+  },
+  {
+    "location": "/js/json/img/helsingkiNight2.jpg",
+    "caption": "Opening @ HelSINGki '19",
+    "alt": "Opening ceremony at helSINGki 2019"
+  },
+  {
+    "location": "/js/json/img/helsingkiNight1.jpg",
+    "caption": "Main Stage @ HelSINGki '18",
+    "alt": "Main stage day one at helSINGki 2018"
+  },
+  {
+    "location": "/js/json/img/helsingkiNight4.jpg",
+    "caption": "Main Stage @ HelSINGki '19",
+    "alt": "Main stage day one at helSINGki 2019"
+  },
+  {
+    "location": "/js/json/img/helsingkiNight5.jpg",
+    "caption": "Sunrise at HelSINGki '18",
+    "alt": "Sunrise on the main stage at helSINGki 2018"
+  },
+  {
+    "location": "/js/json/img/helsingkiFoodVan.jpg",
+    "caption": "Ice cream van @ HelSINGki '18",
+    "alt": "Ice cream van at helSINGki 2018"
+  },
+  {
+    "location": "/js/json/img/helsingkiAlley.jpg",
+    "caption": "Sun Effects Alley @ HelSINGki '19",
+    "alt": "Sun effects alley art exhibition at helSINGki 2019"
+  },
+  {
+    "location": "/js/json/img/helsingkiNight6.jpg",
+    "caption": "Best picture winner HelSINGki '19",
+    "alt": "Best attendee submitted picture at helSINGki 2019"
+  }
+]
